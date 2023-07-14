@@ -1,0 +1,8 @@
+# Port
+server:
+  port: 8090
+
+# application name
+spring:
+  application:
+    name: gateway
